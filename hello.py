@@ -10,6 +10,6 @@ def hello():
 def min():
     return "Min Min"
 
-if_name_=="_main_":
+if __name__=="__main__":
     app.run()
 
